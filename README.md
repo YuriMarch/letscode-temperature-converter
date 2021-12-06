@@ -1,2 +1,2 @@
 # letscode-temperature-converter
-Lets code temperature converter in Java
+Temperature converter in Java created during classes at Lets code.
